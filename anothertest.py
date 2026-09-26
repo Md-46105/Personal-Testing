@@ -1,0 +1,1 @@
+print("Hopefully no waste tokens this time!")
